@@ -1,0 +1,42 @@
+ Rubric
+
+Rubric 1 The submission is a single top level folder.
+Rubric 2 The submission folder name uses the format first_last separated by an underscore.
+Rubric 3 The submission folder contains exactly six files.
+Rubric 4 The submission folder contains no subfolders.
+Rubric 5 The file overview.txt opens as plain text.
+Rubric 6 The file scope_of_work.txt opens as plain text.
+Rubric 7 The file rubrics.txt opens as plain text.
+Rubric 8 The file instructions.md contains at least one heading line that begins with a number sign.
+Rubric 9 The file assets.pdf opens as a valid PDF document.
+Rubric 10 The file reference_image.png opens as a valid PNG image.
+Rubric 11 No deliverable file contains a dash character placed between two words.
+Rubric 12 No deliverable file contains a dash character placed between two numbers.
+Rubric 13 No deliverable file contains a contracted word form such as dont or cant.
+Rubric 14 Every list item in scope_of_work.txt begins with a number rather than a dash character.
+Rubric 15 The files overview.txt, scope_of_work.txt, and rubrics.txt contain no Markdown bold or italic markers.
+Rubric 16 The file overview.txt contains the product name DormBattles.
+Rubric 17 The file overview.txt states that the intended users are students.
+Rubric 18 The file overview.txt states what the prototype must demonstrate.
+Rubric 19 The file overview.txt states that match results use mock data.
+Rubric 20 The file overview.txt states that the prototype runs locally without a paid service.
+Rubric 21 The file scope_of_work.txt contains a list of in scope items.
+Rubric 22 The file scope_of_work.txt contains a list of out of scope items.
+Rubric 23 The file scope_of_work.txt lists the features available to players.
+Rubric 24 The file scope_of_work.txt lists the features available to organizers.
+Rubric 25 The file instructions.md names the recommended technology stack.
+Rubric 26 The file instructions.md describes the folder structure for the web app.
+Rubric 27 The file instructions.md lists the ordered steps a reviewer follows to check the application flows.
+Rubric 28 The file instructions.md contains an acceptance checklist.
+Rubric 29 The file instructions.md describes how a player creates a squad.
+Rubric 30 The file instructions.md describes how an organizer records an offline result.
+Rubric 31 The file instructions.md describes the monthly season reset.
+Rubric 32 The file assets.pdf lists the color palette with hex values.
+Rubric 33 The file assets.pdf documents the column names of each sample data set.
+Rubric 34 The file assets.pdf states how the leaderboard total points are computed.
+Rubric 35 The file assets.pdf documents a squad leaderboard separate from the player leaderboard.
+Rubric 36 The file assets.pdf documents the monthly season model.
+Rubric 37 The file reference_image.png shows a cover image for each game in the Featured Games section.
+Rubric 38 The file reference_image.png displays the name of each game in the Featured Games section.
+Rubric 39 The home screen in reference_image.png shows the signed in user name Geetika.
+Rubric 40 The repository containing the submission folder is set to public visibility.

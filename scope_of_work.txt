@@ -1,0 +1,41 @@
+DormBattles Scope of Work
+
+Project type
+1. A web based prototype of an online and offline gaming league for students.
+2. Runs locally in a browser without paid services. All data comes from sample data sets.
+
+In scope
+1. Web demo environment set up for DormBattles that any reviewer can run locally.
+2. One player flow that covers sign in, squad creation or joining, game discovery, starting an online session, squad chat, and viewing leaderboards.
+3. One organizer flow that covers recording an offline result with a match report form and reading the season summary.
+4. Core pages for home, games, squads, squad details, matches, leaderboards, seasons, and a simple profile.
+5. Mock authentication for three roles, which are player, organizer, and reviewer.
+6. Sample data sets for users, squads, games, matches, seasons, and chat channels.
+7. A single leaderboard for individual players and a separate leaderboard for squads, both fed by online and offline results.
+8. A monthly season model with a theme, a prize pool, and an automatic reset at the end of the month.
+9. A short walkthrough that shows how a reviewer can move through all main flows using the sample data.
+
+Player features
+1. Sign up or sign in through a simple mock flow with no real backend account system.
+2. Create a squad or join an existing squad.
+3. Browse supported games with title, genre, recommended player count, and a casual or ranked tag.
+4. Start an online session through a simple room or match record.
+5. Send text messages inside a squad channel and inside an event channel.
+6. View the player leaderboard and the squad leaderboard for the current season.
+
+Organizer features
+1. Record an offline result from a lab or classroom event using a match report form.
+2. Select the game, the squads, the players, and the result for the offline match.
+3. View a season summary, such as the number of matches played and the top players and squads.
+
+Reviewer support
+1. Run the project locally using the provided instructions.
+2. Navigate all main flows using only the sample data.
+3. Verify that every page behaves as described in the instructions file.
+
+Out of scope
+1. Real gameplay engines or real game logic.
+2. Real time networking or live multiplayer sessions.
+3. Real payment processing or paid third party services.
+4. Real chat servers or external messaging integration.
+5. Production grade security, scaling, or deployment.

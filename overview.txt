@@ -1,0 +1,5 @@
+DormBattles Overview
+
+DormBattles is a browser based gaming league for college and school students. Students sign in, form or join squads, find supported games and start online sessions through simple rooms, chat with their squad, and climb shared leaderboards. Organizers record offline results from lab or classroom events using a match report form. Both online and offline results feed the same points system, and every month a new season begins with a theme, a prize pool, and an automatic reset at the end of the month.
+
+This phase is a web based prototype, not a finished platform. The prototype must demonstrate the player flow from sign in through squad creation, game discovery, match recording, squad chat, and leaderboard viewing, and the organizer flow from recording an offline result through reading the season summary. Match results use mock data, so there is no real game engine and no real time networking. Everything runs locally with no paid service, using free placeholder assets kept inside the project folder.
